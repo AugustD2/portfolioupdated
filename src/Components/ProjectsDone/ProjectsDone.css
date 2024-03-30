@@ -1,0 +1,55 @@
+.projectsDoneContainer {
+    background-color: #E2F4C5;
+    color: #344955;
+}
+
+.projectsDoneContainer h5 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0%;
+    padding-top: 50px;
+}
+
+/* .projectsDoneSummary {
+    border: 2px solid brown;
+} */
+
+.projectsDoneCards {
+    display: flex;
+    width: 60%;
+    text-align: center;
+    border: 3px solid #344955;
+    border-radius: 0px 20px 0px 20px;
+    margin-left: 20%;
+    justify-content: center;
+    padding: 1%;
+    margin-top: 2%;
+}
+
+.projectsDoneCardsName {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.projectsDoneCardsRightPanel {
+    /* margin-left: 30%; */
+    border: 2px solid red;
+}
+
+.projectsDoneCardsLeftPanel {
+    /* margin-top: 5%; */
+    padding: 2%;
+    /* border: 2px solid pink; */
+    width: 90%;
+}
+
+.projectsDoneCardsLeftPanel li {
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.projectsDoneCardsTechStack {
+    font-size: 20px;
+    font-weight: 400;
+}

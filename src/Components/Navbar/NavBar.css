@@ -1,0 +1,41 @@
+.navBarContainer {
+    width: 100%;
+    height: 75px;
+    display: flex;
+    /* border: 2px solid red; */
+    /* position: fixed;
+    z-index: 3; */
+    background-color: #E2F4C5;
+    border: 2px solid #344955;
+    /* box-shadow: 15px 15px 15px #E2F4C5; */
+
+}
+
+.navBarContainer h3 {
+    margin-left: 5%;
+    font-size: 25px;
+    /* color: #35374B; */
+    color: #344955;
+}
+
+.linkToOtherComps {
+    margin-left: 50%;
+    width: 30%;
+}
+
+.linkToOtherComps ul {
+    display: flex;
+}
+
+.linkToOtherComps li {
+    padding: 5%;
+    list-style-type: none;
+
+}
+
+.linkToOtherComps a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: #344955;
+}

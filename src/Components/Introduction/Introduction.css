@@ -1,0 +1,57 @@
+.introContainer {
+    z-index: 1;
+    background-color: #E2F4C5;
+    color: #344955;
+}
+
+.introHeading p {
+    font-size: 45px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    font-family: Courier New, Courier, monospace;
+}
+
+.introLeftPanel {
+    margin-left: 20%;
+    display: flex;
+    /* justify-content: center; */
+}
+
+.introSubTitleHeading p {
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: Courier New, Courier, monospace;
+}
+
+.introSelfImage {
+    /* width: 5%; */
+    height: 5%;
+    margin-left: 20%;
+    margin-top: 60px;
+    border: 2px solid #344955;
+    box-shadow: 5px 5px 15px #42535d;
+
+}
+
+.introTechstack {
+    margin-left: 20%;
+    text-align: left;
+}
+
+.introTechstack h4 {
+    font-size: 20px;
+}
+
+.introTechstack ul {
+    display: flex;
+    font-size: 20px;
+    margin-bottom: 0%;
+    font-weight: 500;
+    padding-left: 0%;
+}
+
+.introTechstack li {
+    padding: 5px;
+    list-style-type: none;
+}

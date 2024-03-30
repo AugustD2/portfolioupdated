@@ -1,0 +1,65 @@
+.contactMeConatiner {
+    /* border: 2px solid purple; */
+    display: flex;
+    background-color: #E2F4C5;
+    color: #344955;
+}
+
+.contactMeLeftPannel {
+    /* border: 2px solid green; */
+    width: 60%;
+
+}
+
+.contactLeftPannelMeHeader,
+.contactMeRightPannelHeader {
+    margin-top: 20px;
+    margin-left: 1%;
+    margin-bottom: 10px;
+}
+
+.contactLeftPannelMeHeader span {
+    font-size: 20px;
+}
+
+.contactMeForm input {
+    width: 40%;
+    padding: 1%;
+    margin: 1%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.contactMeForm button {
+    margin: 1%;
+    height: 35px;
+    width: 100px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.contactMeRightPannel {
+    width: 30%;
+    /* border: 2px solid red; */
+}
+
+.contactMeRightPannelHeader span {
+    font-size: 20px;
+
+}
+
+.contactMeSocialMediaLinks ul {
+    list-style-type: none;
+
+}
+
+.contactMeSocialMediaLinks li {
+    padding: 2%;
+    color: black;
+}
+
+.contactMeSocialMediaLinks li:hover {
+
+    background-color: cadetblue;
+
+}
