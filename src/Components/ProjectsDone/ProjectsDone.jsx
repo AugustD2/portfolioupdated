@@ -16,13 +16,7 @@ export default function ProjectsDone() {
                                     <li> Utilized the Axios library for API calling, and implemented methods using async and await for efficient handling of asynchronous operations.<br /> </li></ul>
                             </div>
                             <div className='projectsDoneCardsTechStack'>React TypeScript | HTML | CSS </div>
-                            {/* <div className='projectsDoneCardsLink'>
-                                <a href='#' target='_blank'>Live</a>
-                            </div> */}
                         </div>
-                        {/* <div className='projectsDoneCardsRightPanel'>
-                            <img src="../assets/naruto.jpg" />
-                        </div> */}
                     </div>  <div className='projectsDoneCards'>
                         <div className='projectsDoneCardsLeftPanel'>
                             <div className='projectsDoneCardsName'>Retail Site</div>
@@ -34,13 +28,7 @@ export default function ProjectsDone() {
                                 </ul>
                             </div>
                             <div className='projectsDoneCardsTechStack'>React Js | C# | Azure | HTML | CSS </div>
-                            {/* <div className='projectsDoneCardsLink'>
-                                <a href='#' target='_blank'>Live</a>
-                            </div> */}
                         </div>
-                        {/* <div className='projectsDoneCardsRightPanel'>
-                            <img src="../assets/naruto.jpg" />
-                        </div> */}
                     </div>  <div className='projectsDoneCards'>
                         <div className='projectsDoneCardsLeftPanel'>
                             <div className='projectsDoneCardsName'>Portfolio</div>
@@ -50,7 +38,7 @@ export default function ProjectsDone() {
                                 <a href='#' target='_blank'>Live</a>
                             </div>
                             <div className='projectsDoneCardsRightPanel'>
-                                <img src="../assets/naruto.jpg" />
+                                <img src="../assets/portfolioImage.jpg" />
                             </div>
                         </div>
 

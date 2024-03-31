@@ -6,7 +6,7 @@ export default function About() {
                 <h5>About Me</h5>
                 <div className='aboutSummary'>
                     <ul>
-                        <li>Experienced in Agile Practices</li>
+                        <li>Experienced in Agile practices</li>
                         <li>Focused on developing reusable and clean components</li>
                         <li>Collaborated closely with UX team to transform wireframes into responsive UI </li>
                     </ul>

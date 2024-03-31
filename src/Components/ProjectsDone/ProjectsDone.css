@@ -1,6 +1,6 @@
 .projectsDoneContainer {
-    background-color: #E2F4C5;
-    color: #344955;
+    background-color: #f5f5f5;
+    color: #111;
 }
 
 .projectsDoneContainer h5 {
@@ -9,10 +9,6 @@
     margin-top: 0%;
     padding-top: 50px;
 }
-
-/* .projectsDoneSummary {
-    border: 2px solid brown;
-} */
 
 .projectsDoneCards {
     display: flex;
@@ -32,14 +28,20 @@
 }
 
 .projectsDoneCardsRightPanel {
-    /* margin-left: 30%; */
-    border: 2px solid red;
+    border: 2px solid #344955;
+}
+
+.projectsDoneCardsLink {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.projectsDoneCardsRightPanel img {
+    width: 100%;
 }
 
 .projectsDoneCardsLeftPanel {
-    /* margin-top: 5%; */
     padding: 2%;
-    /* border: 2px solid pink; */
     width: 90%;
 }
 
